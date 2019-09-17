@@ -1,5 +1,5 @@
 class Book
   def initialize
-    d
+  end 
 end
 Book.new("And Then There Were None")
