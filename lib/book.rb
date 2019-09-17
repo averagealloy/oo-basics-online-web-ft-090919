@@ -38,6 +38,6 @@ class Book
     @title
   end
   def turn_page
-    puts ""
+    puts "Flipping "
   end
 end
