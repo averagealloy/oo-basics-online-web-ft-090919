@@ -5,6 +5,8 @@ class Shoe
   def initialize(brand)
     @brand = brand
   end
-def cobb
+def cobble
+
+  e
 end
 Shoe.new("Nike")
