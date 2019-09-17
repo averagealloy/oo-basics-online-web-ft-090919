@@ -1,4 +1,4 @@
 # Make your shoe class here!
 class Shoe
-def initialize()
+def initialize(name)
 end
