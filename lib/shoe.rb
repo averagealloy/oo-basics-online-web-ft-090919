@@ -5,5 +5,6 @@ class Shoe
     @name = name
   end
   def cobble
-  end 
+
+  end
 end
