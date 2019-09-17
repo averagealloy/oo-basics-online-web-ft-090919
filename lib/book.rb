@@ -37,5 +37,5 @@ class Book
   def title
     @title
   end
-  def t
+  def turn_p
 end
