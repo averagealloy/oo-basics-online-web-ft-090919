@@ -22,5 +22,6 @@ class Book
   end
   def genre
     @genre
+    e
 end
 Book.new("And Then There Were None")
