@@ -7,7 +7,7 @@ class Shoe
   end
 def cobble
   if shoe.condition == "old"
-    shoe.condit
+    shoe.condition 
 end
 end
 Shoe.new("Nike")
