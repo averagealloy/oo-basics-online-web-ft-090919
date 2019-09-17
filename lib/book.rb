@@ -20,6 +20,7 @@ class Book
   def genre=(genre)
     @genre
   end
-  de
+  def genre
+    
 end
 Book.new("And Then There Were None")
