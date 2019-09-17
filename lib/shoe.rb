@@ -7,6 +7,6 @@ class Shoe
   end
 def cobble
 
-  e
+end
 end
 Shoe.new("Nike")
