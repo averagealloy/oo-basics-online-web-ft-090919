@@ -11,6 +11,6 @@ class Book
   def author
     @author
   end
-  def page
+  def page_coun
 end
 Book.new("And Then There Were None")
