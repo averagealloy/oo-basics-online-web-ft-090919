@@ -30,5 +30,5 @@ end
 Book.new("And Then There Were None")
 
 class Book
-attr_
+attr_as
 end
