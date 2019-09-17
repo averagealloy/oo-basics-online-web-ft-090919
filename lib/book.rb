@@ -24,7 +24,7 @@ class Book
     @genre
   end
   def turn_page
-    puts "Flipping the page...wow, you read reall"
+    puts "Flipping the page...wow, you read "
   end
 end
 Book.new("And Then There Were None")
