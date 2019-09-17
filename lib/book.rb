@@ -1,2 +1,2 @@
 class Book
-end B
+end Book.new 
