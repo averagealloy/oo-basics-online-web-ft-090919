@@ -6,7 +6,7 @@ class Shoe
     @brand = brand
   end
 def cobble
-  if 
+  if shoe
 end
 end
 Shoe.new("Nike")
