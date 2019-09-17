@@ -1,2 +1,2 @@
 class Book
-end Book.new("And then ")
+end Book.new("And Then ")
