@@ -8,6 +8,7 @@ class Shoe
 def cobble
   if condition == "old"
     condition = "new"
+    
   end
 end
 end
