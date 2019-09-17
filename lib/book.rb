@@ -1,4 +1,4 @@
 class Book
-  def
+  def initi
 end
 Book.new("And Then There Were None")
