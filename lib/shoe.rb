@@ -4,5 +4,6 @@ class Shoe
   def initialize(name)
     @name = name
   end
-  def cob
+  def cobble
+  end 
 end
