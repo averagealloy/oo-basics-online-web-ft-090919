@@ -30,5 +30,6 @@ end
 Book.new("And Then There Were None")
 
 class Book
-attr_accessor :author, :page_count, :genre 
+attr_accessor :author, :page_count, :genre
+def
 end
