@@ -5,6 +5,6 @@ class Book
   def title
     @title
   end
-  
+  def aut
 end
 Book.new("And Then There Were None")
