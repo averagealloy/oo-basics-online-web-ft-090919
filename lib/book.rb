@@ -24,6 +24,7 @@ class Book
     @genre
   end
   def turn_page
-  end 
+    puts
+  end
 end
 Book.new("And Then There Were None")
