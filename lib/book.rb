@@ -1,2 +1,2 @@
 class Book
-end Book.new("And Then There Were Non")
+end Book.new("And Then There Were None")
