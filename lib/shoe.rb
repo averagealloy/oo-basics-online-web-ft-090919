@@ -3,7 +3,7 @@ class Shoe
   attr_accessor :brand, :color, :size, :material, :condition
   attr_reader :name
   def initialize(brand)
-    @bra = name
+    @bran = name
   end
 
 end
