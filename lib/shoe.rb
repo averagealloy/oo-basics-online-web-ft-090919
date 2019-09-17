@@ -2,4 +2,4 @@
 class Shoe
 
 end
-Shoe.ne
+Shoe.new
